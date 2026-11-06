@@ -4,7 +4,7 @@ function Manage({ person, isUpdate, setDeleteModal, openAddModal }) {
     return (
         <>
             <section id="Manage" className="min-h-screen w-full">
-                <div className="min-h-screen w-full bg-gray-800 px-4 pt-24 pb-10 sm:px-10 md:px-20 lg:px-30 xl:px-50">
+                <div className="min-h-screen w-full bg-gray-800 px-4 pt-24 pb-10 sm:px-10 md:px-20 lg:px-40 xl:px-50">
 
                     
                     <div className="w-full flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 pb-6">
