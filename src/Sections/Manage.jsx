@@ -183,12 +183,6 @@ function Manage({ person, isUpdate, setDeleteModal, openAddModal }) {
 
                         ))}
 
-                        {person.length === 0 && (
-                            <p className="text-center text-gray-300 py-10">
-                                No students found.
-                            </p>
-                        )}
-
                     </div>
 
                 </div>
