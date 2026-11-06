@@ -9,7 +9,7 @@ function Home({ person }) {
                     <div className="mx-auto pt-10 w-full max-w-6xl overflow-hidden rounded-lg shadow-lg shadow-zinc-800">
 
                        
-                        <div className="hidden md:grid lg:grid xl:grid h-20 grid-cols-4 bg-white/80 py-5 backdrop-blur-2xl ">
+                        <div className="hidden md:grid lg:grid xl:grid h-20 grid-cols-4 rou bg-white/80 py-5 backdrop-blur-2xl rounded-t-lg">
 
                             <p className="flex items-center justify-center text-sm font-semibold sm:text-base">
                                 Profile Picture
